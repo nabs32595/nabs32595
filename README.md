@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2 align="center">
     Hi there, I'm Nabil Khalid!
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
@@ -5,19 +7,20 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Nabil;Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Frontend+Developer,;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+For+Visiting+My+Page;I+am+a+Self-taught+Frontend+Developer,;">
     </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 **`Tech Enthusiast`**
 
 Welcome to my GitHub profile! I’m a front-end developer passionate about crafting engaging, efficient, and user-friendly
 digital experiences.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" height="239"/>
 
 ```javascript
-
 const quotes = [
     "💻 Code is like humor. When you have to explain it, it’s bad.",
     "🚀 First, solve the problem. Then, write the code.",
@@ -31,8 +34,6 @@ function getRandomQuote() {
 
 // Call the function
 getRandomQuote();
-
-
 ```
 
 ---
@@ -41,78 +42,68 @@ getRandomQuote();
 
 ### 🚀 Intermediate Software Developer at LavuTech <span style="font-size:small;">(Dec 2022 - Present)</span>
 
-<details style="border: 1px solid #007bff; border-radius: 5px; margin: 10px 0; padding: 10px;">
-<summary style="cursor: pointer; font-weight: bold; color: #007bff; background-color: #e7f1ff; padding: 5px; border-radius: 5px;">
-    More Details
-</summary>
+<details>
+<summary>📖 More Details</summary>
 
-<p><strong>Client</strong>: PETRONAS</p>
-<p><strong>Project Leadership</strong>: Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.</p>
+- **Client**: PETRONAS
+- **Project Leadership**: Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.
 
-<h4>Skills</h4>
-<ul>
-  <li>🔹 <strong>React.js</strong>: Crafted dynamic interfaces with Redux for state management.</li>
-  <li>🔹 <strong>Front-end Proficiency</strong>: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).</li>
-  <li>🔹 <strong>Full-stack Transition</strong>: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.</li>
-</ul>
+#### 🔧 Skills
 
-<p><strong>Achievements</strong>: Successfully transitioned to ASP.NET full-stack development. 🎉</p>
+- **React.js**: Crafted dynamic interfaces with Redux for state management.
+- **Front-end Proficiency**: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).
+- **Full-stack Transition**: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.
+
+**Achievements**: Successfully transitioned to ASP.NET full-stack development. 🎉
 </details>
 
 ---
 
 ### 🌟 Intermediate Software Developer at Easy Crypto <span style="font-size:small;">(Jan 2021 - Dec 2022)</span>
 
-<details style="border: 1px solid #007bff; border-radius: 5px; margin: 10px 0; padding: 10px;">
-<summary style="cursor: pointer; font-weight: bold; color: #007bff; background-color: #e7f1ff; padding: 5px; border-radius: 5px;">
-    More Details
-</summary>
+<details>
+<summary>📖 More Details</summary>
 
-<h4>Key Contributions</h4>
-<ul>
-  <li>✅ Developed user-facing features enhancing user experience.</li>
-  <li>✅ Optimized applications for speed and scalability.</li>
-</ul>
+#### 🛠️ Key Contributions
 
-<h4>Projects</h4>
-<ul>
-  <li>✨ **Easy Crypto Vue.js SPA**: Stunning SPA with Vue.js and Bulma CSS.</li>
-  <li>✨ **Easy Crypto Admin**: Intuitive admin dashboard with REST API integration.</li>
-</ul>
+- Developed user-facing features enhancing user experience.
+- Optimized applications for speed and scalability.
+
+#### 📊 Projects
+
+- **Easy Crypto Vue.js SPA**: Stunning SPA with Vue.js and Bulma CSS.
+- **Easy Crypto Admin**: Intuitive admin dashboard with REST API integration.
+
 </details>
 
 ---
 
 ### 🌈 Junior Software Developer at RaudhahPay Sdn Bhd <span style="font-size:small;">(Jan 2019 - Jan 2021)</span>
 
-<details style="border: 1px solid #007bff; border-radius: 5px; margin: 10px 0; padding: 10px;">
-<summary style="cursor: pointer; font-weight: bold; color: #007bff; background-color: #e7f1ff; padding: 5px; border-radius: 5px;">
-    More Details
-</summary>
+<details>
+<summary>📖 More Details</summary>
 
-<p><strong>Responsibilities</strong>: Developed user-facing applications collaborating with back-end developers.</p>
+- **Responsibilities**: Developed user-facing applications collaborating with back-end developers.
 
-<h4>Notable Projects</h4>
-<ul>
-  <li>📱 **Raudhahpay Web**: Backend with Yii2 and MySQL, front end with Semantic UI.</li>
-  <li>📱 **Raudhah Prepaid Mobile App**: Engaging app with Flutter and bloc state management.</li>
-</ul>
+#### 🔍 Notable Projects
+
+- **Raudhahpay Web**: Backend with Yii2 and MySQL, front end with Semantic UI.
+- **Raudhah Prepaid Mobile App**: Engaging app with Flutter and bloc state management.
+
 </details>
 
 ---
 
 ### 🎓 Junior Software Developer at Brainy Bunch Sdn Bhd <span style="font-size:small;">(Jan 2019 - Jan 2020)</span>
 
-<details style="border: 1px solid #007bff; border-radius: 5px; margin: 10px 0; padding: 10px;">
-<summary style="cursor: pointer; font-weight: bold; color: #007bff; background-color: #e7f1ff; padding: 5px; border-radius: 5px;">
-    More Details
-</summary>
+<details>
+<summary>📖 More Details</summary>
 
-<p><strong>Project</strong>: School Management System</p>
-<p><strong>Tech Stack</strong>: Nuxt.js, Adobe XD, Bootstrap 4, Laravel.</p>
-<p><strong>Special Features</strong>: Optimized page load with Nuxt.js and integrated APIs using Axios.</p>
+- **Project**: School Management System
+- **Tech Stack**: Nuxt.js, Adobe XD, Bootstrap 4, Laravel.
+- **Special Features**: Optimized page load with Nuxt.js and integrated APIs using Axios.
+
 </details>
-
 
 ### 🛠️ Tech Stack 📈 Experience Chart
 
@@ -131,11 +122,11 @@ getRandomQuote();
 |                          | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                    | 🟩🟩🟦🟦🟦      | 1.5       |
 | **Backend Development**  | <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦      | 1.5       |
 
-### 📈 GitHub Stats
+## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabs3259&layout=compact&theme=radical)
-
+| ![](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabs32595) |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+                                                                               
 ---
 
 ### 💼 Connect with Me

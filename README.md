@@ -112,52 +112,23 @@ getRandomQuote();
 </details>
 </div>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 📈 Experience Chart
 
-#### Frontend Development
+| **Category**              | **Skill**                                                                                                                      | **Proficiency** | **Years** |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|
+| **Frontend Development**  | <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />                    | 🟩🟩🟩🟦🟦       | 3+        |
+|                           | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />                 | 🟩🟩🟩🟦🟦       | 2         |
+| **Frameworks**            | <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />              | 🟩🟩🟦🟦🟦       | 1         |
+|                           | <img src="https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />              | 🟩🟩🟦🟦🟦       | 1         |
+| **Styling**               | <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | 🟩🟩🟩🟦🟦       | 2         |
+|                           | <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />        | 🟩🟩🟦🟦🟦       | 2         |
+|                           | <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />                       | 🟩🟩🟦🟦🟦       | 2         |
+| **Tools**                 | <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                          | 🟩🟩🟩🟦🟦       | 4+        |
+|                           | <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />                 | 🟩🟩🟩🟦🟦       | 4+        |
+|                           | <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /> | 🟩🟩🟩🟦🟦       | 3+        |
+|                           | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                    | 🟩🟩🟦🟦🟦       | 1.5       |
+| **Backend Development**   | <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦       | 1.5       |
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
-#### Frameworks
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=nuxt.js&logoColor=white)
-
-#### Styling
-
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-
-#### Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-#### Exploring
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-
----
-
-### 📈 Experience Chart
-| Skill                                                                                                                         | Proficiency | Years |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------|-------|
-| <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />                    | 🟩🟩🟩🟦🟦 | 3+    |
-| <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />                 | 🟩🟩🟩🟦🟦 | 2     |
-| <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | 🟩🟩🟩🟦🟦 | 2     |
-| <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                          | 🟩🟩🟩🟦🟦| 4+    |
-| <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦 | 1.5   |
-| <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />                    | 🟩🟩🟩🟦🟦 | 1     |
-
----
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&theme=radical)  

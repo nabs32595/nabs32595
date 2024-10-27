@@ -37,123 +37,81 @@ getRandomQuote();
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nabil Alkaff's GitHub Profile</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h2 {
-            text-align: center;
-            color: #4A90E2;
-            border-bottom: 2px solid #4A90E2;
-            padding-bottom: 10px;
-        }
-        .card {
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            margin: 20px auto;
-            padding: 20px;
-            max-width: 800px;
-            transition: transform 0.3s;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-        }
-        h3 {
-            color: #E94E77;
-        }
-        ul {
-            list-style-type: square;
-            padding-left: 20px;
-        }
-        .separator {
-            margin: 40px 0;
-            height: 1px;
-            background-color: #e0e0e0;
-        }
-    </style>
-</head>
-<body>
+<h2 style="color: #4A90E2; font-family: 'Arial';">📂 Career History</h2>
 
-<h2>👨‍💻 Career History</h2>
-
-<div class="card">
-    <h3>🚀 Intermediate Software Developer at LavuTech</h3>
-    <p><strong>Dec 2022 - Present</strong><br>Client: PETRONAS</p>
-    <p><strong>Project Leadership:</strong> Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.</p>
-
-    <h4>Skills:</h4>
-    <ul>
-        <li><strong>React.js:</strong> Crafted dynamic interfaces with Redux for state management.</li>
-        <li><strong>Front-end Proficiency:</strong> Mastered HTML5, CSS3, and modern JS frameworks (ES6+).</li>
-        <li><strong>Full-stack Transition:</strong> Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.</li>
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #E94E77; font-family: 'Arial';">🚀 Intermediate Software Developer at LavuTech</h3>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Dec 2022 - Present</strong><br>
+    <strong>Client:</strong> PETRONAS<br>
+    Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.
+  </p>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Skills:</strong><br>
+    <ul style="list-style-type: none; padding: 0;">
+      <li>React.js: Crafted dynamic interfaces with Redux for state management.</li>
+      <li>Front-end Proficiency: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).</li>
+      <li>Full-stack Transition: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.</li>
     </ul>
-    <p><strong>Achievements:</strong> Successfully transitioned to ASP.NET full-stack development. 🎉</p>
+  </p>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Achievements:</strong> Successfully transitioned to ASP.NET full-stack development. 🎉
+  </p>
 </div>
 
-<div class="separator"></div>
-
-<div class="card">
-    <h3>🌟 Intermediate Software Developer at Easy Crypto</h3>
-    <p><strong>Jan 2021 - Dec 2022</strong></p>
-
-    <h4>Key Contributions:</h4>
-    <ul>
-        <li>Developed user-facing features enhancing user experience.</li>
-        <li>Optimized applications for speed and scalability.</li>
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #E94E77; font-family: 'Arial';">🌟 Intermediate Software Developer at Easy Crypto</h3>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Jan 2021 - Dec 2022</strong>
+  </p>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Key Contributions:</strong><br>
+    Developed user-facing features enhancing user experience and optimized applications for speed and scalability.
+  </p>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Projects:</strong><br>
+    <ul style="list-style-type: none; padding: 0;">
+      <li><strong>Easy Crypto Vue.js SPA:</strong> Stunning SPA with Vue.js and Bulma CSS.</li>
+      <li><strong>Easy Crypto Admin:</strong> Intuitive admin dashboard with REST API integration.</li>
     </ul>
-    
-    <h4>Projects:</h4>
-    <ul>
-        <li><strong>Easy Crypto Vue.js SPA:</strong> Stunning SPA with Vue.js and Bulma CSS.</li>
-        <li><strong>Easy Crypto Admin:</strong> Intuitive admin dashboard with REST API integration.</li>
-    </ul>
+  </p>
 </div>
 
-<div class="separator"></div>
-
-<div class="card">
-    <h3>🌈 Junior Software Developer at RaudhahPay Sdn Bhd</h3>
-    <p><strong>Jan 2019 - Jan 2021</strong></p>
-
-    <h4>Responsibilities:</h4>
-    <p>Developed user-facing applications collaborating with back-end developers.</p>
-    
-    <h4>Notable Projects:</h4>
-    <ul>
-        <li><strong>Raudhahpay Web:</strong> Backend with Yii2 and MySQL, front end with Semantic UI.</li>
-        <li><strong>Raudhah Prepaid Mobile App:</strong> Engaging app with Flutter and bloc state management.</li>
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #E94E77; font-family: 'Arial';">🌈 Junior Software Developer at RaudhahPay Sdn Bhd</h3>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Jan 2019 - Jan 2021</strong><br>
+    Developed user-facing applications collaborating with back-end developers.
+  </p>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Notable Projects:</strong><br>
+    <ul style="list-style-type: none; padding: 0;">
+      <li><strong>Raudhahpay Web:</strong> Backend with Yii2 and MySQL, front end with Semantic UI.</li>
+      <li><strong>Raudhah Prepaid Mobile App:</strong> Engaging app with Flutter and bloc state management.</li>
     </ul>
+  </p>
 </div>
 
-<div class="separator"></div>
-
-<div class="card">
-    <h3>🎓 Junior Software Developer at Brainy Bunch Sdn Bhd</h3>
-    <p><strong>Jan 2019 - Jan 2020</strong></p>
-
-    <h4>Project:</h4>
-    <p><strong>School Management System</strong></p>
-    <p><strong>Tech Stack:</strong> Nuxt.js, Adobe XD, Bootstrap 4, Laravel.</p>
-    <h4>Special Features:</h4>
-    <ul>
-        <li>Optimized page load with Nuxt.js and integrated APIs using Axios.</li>
-    </ul>
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #E94E77; font-family: 'Arial';">🎓 Junior Software Developer at Brainy Bunch Sdn Bhd</h3>
+  <p style="font-family: 'Arial'; color: #555;">
+    <strong>Jan 2019 - Jan 2020</strong><br>
+    <strong>Project:</strong> School Management System<br>
+    <strong>Tech Stack:</strong> Nuxt.js, Adobe XD, Bootstrap 4, Laravel.<br>
+    <strong>Special Features:</strong> Optimized page load with Nuxt.js and integrated APIs using Axios.
+  </p>
 </div>
 
-</body>
-</html>
+<hr style="border: none; border-top: 2px solid #4A90E2;"/>
 
+<h2 style="color: #4A90E2; font-family: 'Arial';">🌟 Hobbies & Interests</h2>
+<p style="font-family: 'Arial'; color: #555;">
+  I enjoy diving into the world of <strong>anime</strong> and <strong>manga</strong>, exploring <strong>video games</strong>, and always seeking out new technology trends to stay updated! 🎮📚
+</p>
+
+<p align="center" style="font-family: 'Arial'; color: #4A90E2;">
+  Let's connect and create amazing things together! 🌍
+</p>
 
 
 ---

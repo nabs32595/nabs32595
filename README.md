@@ -14,29 +14,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 **`Tech Enthusiast`**
+<p>
+    <a href="https://mazarafa.github.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-mazarafa.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://mazarafa.github.io/" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
+    <a href="https://medium.com/@mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/mazarafa" alt="Medium Badge"></a> 
+    <a href="https://www.linkedin.com/in/mazarafa/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
+    <a href="https://open.spotify.com/user/avellar_7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@avellar_7%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/avellar_7" alt="Spotify Badge"></a>
+    <a href="https://facebook.com/mazarafa7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/mazarafa7" alt="Facebook Badge"></a> 
+    <a href="https://instagram.com/mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
+    <!-- <a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
+</p>
 
-Welcome to my GitHub profile! I’m a front-end developer passionate about crafting engaging, efficient, and user-friendly
-digital experiences.
-
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" height="239"/>
-
-```javascript
-const quotes = [
-    "💻 Code is like humor. When you have to explain it, it’s bad.",
-    "🚀 First, solve the problem. Then, write the code.",
-    "🧑‍💻 There are only two kinds of languages: the ones people complain about and the ones nobody uses."
-];
-
-function getRandomQuote() {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    console.log(`💡 Inspiration: ${quotes[randomIndex]}`);
-}
-
-// Call the function
-getRandomQuote();
-```
-
----
+|                                                                                                                                                                                                                            ![Inspiration GIF](https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif)                                                                                                                                                                                                                            | 
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| <pre><code>const quotes = [<br>    "💻 Code is like humor. When you have to explain it, it’s bad.",<br>    "🚀 First, solve the problem. Then, write the code.",<br>    "🧑‍💻 There are only two kinds of languages: the ones people complain about and the ones nobody uses."<br>];<br><br>function getRandomQuote() {<br>    const randomIndex = Math.floor(Math.random() * quotes.length);<br>    console.log(`💡 Inspiration: ${quotes[randomIndex]}`);<br>}<br><br>// Call the function<br>getRandomQuote();</code></pre> |
 
 ## 📂 Career History
 
@@ -126,15 +116,8 @@ getRandomQuote();
 
 | ![](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabs32595) |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+
                                                                                
----
-
-### 💼 Connect with Me
-
-- **LinkedIn**: [Your LinkedIn](#)
-- **Email**: your.email@example.com
-- **Website/Portfolio**: [Your Portfolio](#)
-
 ---
 
 ![Thanks for visiting!](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)

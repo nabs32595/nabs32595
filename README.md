@@ -40,6 +40,24 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 
 ```
 
+## 📚 Education
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <strong>Universiti Tenaga Nasional</strong><br>
+        <strong>BSc.</strong> Computer Science (Cybersecurity)<br>
+        Finished 2019<br>
+        CGPA: 3.67
+      </td>
+      <td align="center" style="padding: 20px;">
+        <strong>Universiti Kuala Lumpur</strong><br>
+        <strong>Diploma.</strong> Computer Science (Networking)<br>
+        Finished 2015<br>
+        CGPA: 3.00
+      </td>
+    </tr>
+  </table>
+
 ## 📂 Career History
 
 ### 🚀 Intermediate Software Developer at LavuTech <span style="font-size:small;">(Dec 2022 - Present)</span>
@@ -107,6 +125,8 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 
 </details>
 
+---
+
 ### 🛠️ Tech Stack 📈 Experience Chart
 
 | **Category**             | **Skill**                                                                                                                     | **Proficiency** | **Years** |
@@ -124,12 +144,15 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 |                          | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                    | 🟩🟩🟦🟦🟦      | 1.5       |
 | **Backend Development**  | <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦      | 1.5       |
 
+---
+
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 
 | ![](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabs32595) |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 
-                                                                               
----
-
-![Thanks for visiting!](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>

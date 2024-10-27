@@ -1,20 +1,45 @@
-# Hi there, I'm Nabil Khalid! 👋
+<h2 align="center">
+    Hi there, I'm Nabil Khalid!
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
+</h2>
 
 **`Front-End Developer | Tech Enthusiast`**
 
-Welcome to my GitHub profile! I’m a front-end developer passionate about crafting engaging, efficient, and user-friendly digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive applications using React.js and Node.js.
+Welcome to my GitHub profile! I’m a front-end developer passionate about crafting engaging, efficient, and user-friendly digital experiences.
+
+<img width="45%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
 
 
-### 🛠️ **Tech Stack**
+```javascript
+
+const quotes = [
+    "💻 Code is like humor. When you have to explain it, it’s bad.",
+    "🚀 First, solve the problem. Then, write the code.",
+    "🧑‍💻 There are only two kinds of languages: the ones people complain about and the ones nobody uses."
+];
+
+function getRandomQuote() {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    console.log(`💡 Inspiration: ${quotes[randomIndex]}`);
+}
+
+// Call the function
+getRandomQuote();
+
+
+```
+
+---
+
+### 🛠️ Tech Stack
 
 #### Frontend Development
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 #### Frameworks
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat&logo=nuxt.js&logoColor=white)
 
 #### Styling
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -36,74 +61,55 @@ Welcome to my GitHub profile! I’m a front-end developer passionate about craft
 
 ---
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
-    <h2 style="color: #4A90E2;">📂 Career History</h2>
+## 📂 Career History
 
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; background: #f9f9f9;">
-        <h3 style="color: #E67E22;">🚀 Intermediate Software Developer at LavuTech</h3>
-        <p><strong>Dec 2022 - Present</strong></p>
-        <p><strong>Client:</strong> PETRONAS</p>
-        <p><strong>Project Leadership:</strong> 🚀 Spearheaded a 6-month React.js project, elevating front-end development with a focus on UI/UX and responsive design.</p>
-        <h4 style="color: #E74C3C;">Skills:</h4>
-        <ul>
-            <li><strong>React.js:</strong> Crafted dynamic interfaces, employing <strong>Redux</strong> for seamless state management.</li>
-            <li><strong>Front-end Proficiency:</strong> Mastered <strong>HTML5</strong>, <strong>CSS3</strong>, and modern JavaScript frameworks (ES6+), ensuring cross-browser compatibility and mobile responsiveness.</li>
-            <li><strong>Full-stack Transition:</strong> Adapted to <strong>ASP.NET</strong>, with expertise in <strong>C#</strong>, <strong>MVC architecture</strong>, and <strong>SQL Server</strong> for comprehensive application development.</li>
-        </ul>
-        <p><strong>Achievements:</strong> Successfully transitioned to <strong>ASP.NET full-stack development</strong>, continuously enhancing skills for impactful project contributions. 🎉</p>
-    </div>
+### 🚀 Intermediate Software Developer at LavuTech
+**Dec 2022 - Present**  
+**Client**: PETRONAS  
+**Project Leadership**: Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.
 
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; background: #f9f9f9;">
-        <h3 style="color: #E67E22;">🌟 Intermediate Software Developer at Easy Crypto</h3>
-        <p><strong>Jan 2021 - Dec 2022</strong></p>
-        <h4 style="color: #E74C3C;">Key Contributions:</h4>
-        <ul>
-            <li>Developed new user-facing features that enhanced user experience and engagement.</li>
-            <li>Ensured technical feasibility of UI/UX designs while optimizing applications for speed and scalability.</li>
-            <li>Validated user input to ensure robust application performance.</li>
-        </ul>
-        <h4 style="color: #E74C3C;">Projects:</h4>
-        <ul>
-            <li><strong>Easy Crypto Vue.js SPA:</strong> Developed a stunning single-page application with <strong>Vue.js</strong>, <strong>Bulma CSS</strong>, and <strong>Auth0</strong> integration.</li>
-            <li><strong>Easy Crypto Admin:</strong> Built an intuitive administrative dashboard, making management a breeze with <strong>REST API</strong> integration.</li>
-        </ul>
-    </div>
+**Skills**:
+- **React.js**: Crafted dynamic interfaces with Redux for state management.
+- **Front-end Proficiency**: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).
+- **Full-stack Transition**: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.
 
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; background: #f9f9f9;">
-        <h3 style="color: #E67E22;">🌈 Junior Software Developer at RaudhahPay Sdn Bhd</h3>
-        <p><strong>Jan 2019 - Jan 2021</strong></p>
-        <h4 style="color: #E74C3C;">Responsibilities:</h4>
-        <p>Developed user-facing applications while collaborating with back-end developers to deliver seamless functionality.</p>
-        <h4 style="color: #E74C3C;">Technical Expertise:</h4>
-        <ul>
-            <li>Utilized <strong>Semantic UI</strong> for responsive designs and developed mobile applications using <strong>Flutter</strong> and <strong>RESTful APIs</strong>.</li>
-        </ul>
-        <h4 style="color: #E74C3C;">Notable Projects:</h4>
-        <ul>
-            <li><strong>Raudhahpay Web:</strong> A robust backend built with <strong>Yii2</strong> and <strong>MySQL</strong>, featuring a stunning front end using <strong>Semantic UI</strong>.</li>
-            <li><strong>Raudhah Prepaid Mobile App:</strong> Created an engaging app with <strong>Flutter</strong> and bloc state management, enhancing user interaction.</li>
-            <li><strong>Raudhah Pay Merchant App:</strong> Developed using Flutter, focusing on delivering a smooth user experience.</li>
-            <li><strong>Raudhah Prepaid Back End:</strong> Implemented using <strong>Laravel</strong> and <strong>MongoDB</strong>, embracing a microservice architecture for flexibility.</li>
-        </ul>
-    </div>
-
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; background: #f9f9f9;">
-        <h3 style="color: #E67E22;">🎓 Junior Software Developer at Brainy Bunch Sdn Bhd</h3>
-        <p><strong>Jan 2019 - Jan 2020</strong></p>
-        <h4 style="color: #E74C3C;">Project:</h4>
-        <p><strong>School Management System</strong></p>
-        <h4 style="color: #E74C3C;">Tech Stack:</h4>
-        <ul>
-            <li><strong>Front-End:</strong> <strong>Nuxt.js</strong> for server-side rendering, <strong>Adobe XD</strong> for layout design, and <strong>Bootstrap 4</strong> for styling.</li>
-            <li><strong>Back-End:</strong> Employed <strong>Laravel</strong> for robust backend services, implementing security measures and database design.</li>
-        </ul>
-        <h4 style="color: #E74C3C;">Special Features:</h4>
-        <p>Optimized page load with <strong>Nuxt.js</strong> and ensured a responsive design with <strong>Bootstrap 4</strong>. Integrated APIs using <strong>Axios</strong> to enhance functionality and user experience.</p>
-    </div>
-</div>
+**Achievements**: Successfully transitioned to ASP.NET full-stack development. 🎉
 
 ---
 
+### 🌟 Intermediate Software Developer at Easy Crypto
+**Jan 2021 - Dec 2022**
+
+**Key Contributions**:
+- Developed user-facing features enhancing user experience.
+- Optimized applications for speed and scalability.
+
+**Projects**:
+- **Easy Crypto Vue.js SPA**: Stunning SPA with Vue.js and Bulma CSS.
+- **Easy Crypto Admin**: Intuitive admin dashboard with REST API integration.
+
+---
+
+### 🌈 Junior Software Developer at RaudhahPay Sdn Bhd
+**Jan 2019 - Jan 2021**
+
+**Responsibilities**: Developed user-facing applications collaborating with back-end developers.
+
+**Notable Projects**:
+- **Raudhahpay Web**: Backend with Yii2 and MySQL, front end with Semantic UI.
+- **Raudhah Prepaid Mobile App**: Engaging app with Flutter and bloc state management.
+
+---
+
+### 🎓 Junior Software Developer at Brainy Bunch Sdn Bhd
+**Jan 2019 - Jan 2020**
+
+**Project**: School Management System  
+**Tech Stack**: Nuxt.js, Adobe XD, Bootstrap 4, Laravel.
+
+**Special Features**: Optimized page load with Nuxt.js and integrated APIs using Axios.
+
+---
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&theme=radical)  

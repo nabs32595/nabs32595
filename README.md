@@ -37,84 +37,80 @@ getRandomQuote();
 
 ---
 
-<h2 style="color: #4A90E2; font-family: 'Arial';">📂 Career History</h2>
+## 📂 Career History
 
-<div style="margin-bottom: 30px;">
-  <h3 style="color: #E94E77; font-family: 'Arial';">🚀 Intermediate Software Developer at LavuTech</h3>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Dec 2022 - Present</strong><br>
-    <strong>Client:</strong> PETRONAS<br>
-    Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.
-  </p>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Skills:</strong><br>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>React.js: Crafted dynamic interfaces with Redux for state management.</li>
-      <li>Front-end Proficiency: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).</li>
-      <li>Full-stack Transition: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.</li>
-    </ul>
-  </p>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Achievements:</strong> Successfully transitioned to ASP.NET full-stack development. 🎉
-  </p>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+
+### 🚀 Intermediate Software Developer at LavuTech <span style="font-size:small;">(Dec 2022 - Present)</span>
+
+<details>
+  <summary>More Details</summary>
+
+  <p><strong>Client</strong>: PETRONAS</p>
+  <p><strong>Project Leadership</strong>: Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.</p>
+
+<h4>Skills</h4>
+
+- **React.js**: Crafted dynamic interfaces with Redux for state management.
+- **Front-end Proficiency**: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).
+- **Full-stack Transition**: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.
+
+  <p><strong>Achievements</strong>: Successfully transitioned to ASP.NET full-stack development. 🎉</p>
+
+</details>
 </div>
 
-<div style="margin-bottom: 30px;">
-  <h3 style="color: #E94E77; font-family: 'Arial';">🌟 Intermediate Software Developer at Easy Crypto</h3>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Jan 2021 - Dec 2022</strong>
-  </p>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Key Contributions:</strong><br>
-    Developed user-facing features enhancing user experience and optimized applications for speed and scalability.
-  </p>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Projects:</strong><br>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><strong>Easy Crypto Vue.js SPA:</strong> Stunning SPA with Vue.js and Bulma CSS.</li>
-      <li><strong>Easy Crypto Admin:</strong> Intuitive admin dashboard with REST API integration.</li>
-    </ul>
-  </p>
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+
+### 🌟 Intermediate Software Developer at Easy Crypto <span style="font-size:small;">(Jan 2021 - Dec 2022)</span>
+
+<details>
+  <summary>More Details</summary>
+
+<h4>Key Contributions</h4>
+
+- Developed user-facing features enhancing user experience.
+- Optimized applications for speed and scalability.
+
+<h4>Projects</h4>
+
+- **Easy Crypto Vue.js SPA**: Stunning SPA with Vue.js and Bulma CSS.
+- **Easy Crypto Admin**: Intuitive admin dashboard with REST API integration.
+
+</details>
 </div>
 
-<div style="margin-bottom: 30px;">
-  <h3 style="color: #E94E77; font-family: 'Arial';">🌈 Junior Software Developer at RaudhahPay Sdn Bhd</h3>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Jan 2019 - Jan 2021</strong><br>
-    Developed user-facing applications collaborating with back-end developers.
-  </p>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Notable Projects:</strong><br>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><strong>Raudhahpay Web:</strong> Backend with Yii2 and MySQL, front end with Semantic UI.</li>
-      <li><strong>Raudhah Prepaid Mobile App:</strong> Engaging app with Flutter and bloc state management.</li>
-    </ul>
-  </p>
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+
+### 🌈 Junior Software Developer at RaudhahPay Sdn Bhd <span style="font-size:small;">(Jan 2019 - Jan 2021)</span>
+
+<details>
+  <summary>More Details</summary>
+
+  <p><strong>Responsibilities</strong>: Developed user-facing applications collaborating with back-end developers.</p>
+
+<h4>Notable Projects</h4>
+
+- **Raudhahpay Web**: Backend with Yii2 and MySQL, front end with Semantic UI.
+- **Raudhah Prepaid Mobile App**: Engaging app with Flutter and bloc state management.
+
+</details>
 </div>
 
-<div style="margin-bottom: 30px;">
-  <h3 style="color: #E94E77; font-family: 'Arial';">🎓 Junior Software Developer at Brainy Bunch Sdn Bhd</h3>
-  <p style="font-family: 'Arial'; color: #555;">
-    <strong>Jan 2019 - Jan 2020</strong><br>
-    <strong>Project:</strong> School Management System<br>
-    <strong>Tech Stack:</strong> Nuxt.js, Adobe XD, Bootstrap 4, Laravel.<br>
-    <strong>Special Features:</strong> Optimized page load with Nuxt.js and integrated APIs using Axios.
-  </p>
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+
+### 🎓 Junior Software Developer at Brainy Bunch Sdn Bhd <span style="font-size:small;">(Jan 2019 - Jan 2020)</span>
+
+<details>
+  <summary>More Details</summary>
+
+  <p><strong>Project</strong>: School Management System</p>
+  <p><strong>Tech Stack</strong>: Nuxt.js, Adobe XD, Bootstrap 4, Laravel.</p>
+  <p><strong>Special Features</strong>: Optimized page load with Nuxt.js and integrated APIs using Axios.</p>
+
+</details>
 </div>
-
-<hr style="border: none; border-top: 2px solid #4A90E2;"/>
-
-<h2 style="color: #4A90E2; font-family: 'Arial';">🌟 Hobbies & Interests</h2>
-<p style="font-family: 'Arial'; color: #555;">
-  I enjoy diving into the world of <strong>anime</strong> and <strong>manga</strong>, exploring <strong>video games</strong>, and always seeking out new technology trends to stay updated! 🎮📚
-</p>
-
-<p align="center" style="font-family: 'Arial'; color: #4A90E2;">
-  Let's connect and create amazing things together! 🌍
-</p>
-
-
----
 
 ### 🛠️ Tech Stack
 
@@ -126,7 +122,7 @@ getRandomQuote();
 #### Frameworks
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat&logo=nuxt.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=nuxt.js&logoColor=white)
 
 #### Styling
 
@@ -151,6 +147,17 @@ getRandomQuote();
 
 ---
 
+### 📈 Experience Chart
+| Skill                                                                                                                         | Proficiency | Years |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------|-------|
+| <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />                    | 🟩🟩🟩🟦🟦 | 3+    |
+| <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />                 | 🟩🟩🟩🟦🟦 | 2     |
+| <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | 🟩🟩🟩🟦🟦 | 2     |
+| <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                          | 🟩🟩🟩🟦🟦| 4+    |
+| <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦 | 1.5   |
+| <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />                    | 🟩🟩🟩🟦🟦 | 1     |
+
+---
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabs32595&show_icons=true&theme=radical)  

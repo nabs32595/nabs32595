@@ -67,15 +67,25 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 <summary>📖 More Details</summary>
 
 - **Client**: PETRONAS
-- **Project Leadership**: Spearheaded a 6-month React.js project, focusing on UI/UX and responsive design.
+
+#### 📊 Projects
+
+- **Anchor**: central dashboard for oil tankers.
+- **Gas Processing Unit Technical Center (GTC)**: Command Center dashboard for Petronas Gas production.
 
 #### 🔧 Skills
 
-- **React.js**: Crafted dynamic interfaces with Redux for state management.
-- **Front-end Proficiency**: Mastered HTML5, CSS3, and modern JS frameworks (ES6+).
-- **Full-stack Transition**: Adapted to ASP.NET, with expertise in C#, MVC architecture, and SQL Server.
+- **React.js**: Created dynamic, responsive interfaces using Redux for streamlined state management.
+- **Full-stack Transition**: Adapted successfully to ASP.NET and C# for backend responsibilities, integrating with MVC
+  architecture and SQL Server.
 
-**Achievements**: Successfully transitioned to ASP.NET full-stack development. 🎉
+#### 🌟 Key Contributions
+
+- **Mentored Team of Interns**
+- **Enhanced User Experience**
+- **UI Collaboration**
+- **Consistency in User Experience**
+
 </details>
 
 ---
@@ -85,15 +95,23 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 <details>
 <summary>📖 More Details</summary>
 
-#### 🛠️ Key Contributions
-
-- Developed user-facing features enhancing user experience.
-- Optimized applications for speed and scalability.
-
 #### 📊 Projects
 
-- **Easy Crypto Vue.js SPA**: Stunning SPA with Vue.js and Bulma CSS.
-- **Easy Crypto Admin**: Intuitive admin dashboard with REST API integration.
+- **Easy Crypto**
+- **Easy Crypto Admin**
+
+#### 🌟 Key Contributions
+
+- **Reduced Client Load Times**: Implemented lazy loading and optimized assets.
+- **Increased Scalability**: Designed modular components, improving scalability and reducing future development.
+- **Enhanced Security Protocols**: Integrated Auth0 authentication.
+- **Streamlined Development Process**: Established reusable Vue.js components.
+- **Optimized for Cross-Platform Compatibility**: Ensured cross-browser compatibility and optimized the SPA for mobile
+  devices, expanding user accessibility.
+- **Integrated New Payment Method**: Implemented Stripe payment integration, enhancing transaction processing
+  capabilities.
+- **Introduced Feature Flag System**: Developed a feature flag system to enable controlled rollout of new features,
+  improving testing and deployment flexibility.
 
 </details>
 
@@ -125,6 +143,7 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 - **Special Features**: Optimized page load with Nuxt.js and integrated APIs using Axios.
 
 </details>
+
 
 ---
 

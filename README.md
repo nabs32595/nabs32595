@@ -143,7 +143,7 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 |                          | <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />                               | 🟩🟩🟩🟦🟦      | 4+        |
 | **Tools**                | <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                                  | 🟩🟩🟩🟩🟩      | 5         |
 |                          | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                            | 🟩🟩🟦🟦🟦      | 3         |
-| **Backend Development**  | <img src="https://img.shields.io/badge/-NODE-512BD4?style=flat&logo=dotnet&logoColor=white" alt="Node" />                             | 🟩🟩🟩🟦🟦      | 2         |
+| **Backend Development**  | <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />                      | 🟩🟩🟩🟦🟦      | 2         |
 | **Databases**            | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />                            | 🟩🟩🟦🟦🟦      | 3         |
 |                          | <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />                      | 🟩🟩🟦🟦🟦      | 2         |
 | **DevOps & CI/CD**       | <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />                         | 🟩🟩🟦🟦🟦      | 1         |

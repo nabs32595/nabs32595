@@ -41,6 +41,7 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 ```
 
 ## 📚 Education
+
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
@@ -129,20 +130,29 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 
 ### 🛠️ Tech Stack 📈 Experience Chart
 
-| **Category**             | **Skill**                                                                                                                     | **Proficiency** | **Years** |
-|--------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|
-| **Frontend Development** | <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />                    | 🟩🟩🟩🟦🟦      | 3+        |
-|                          | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />                 | 🟩🟩🟩🟦🟦      | 2         |
-| **Frameworks**           | <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />              | 🟩🟩🟦🟦🟦      | 1         |
-|                          | <img src="https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />              | 🟩🟩🟦🟦🟦      | 1         |
-| **Styling**              | <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | 🟩🟩🟩🟦🟦      | 2         |
-|                          | <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />        | 🟩🟩🟦🟦🟦      | 2         |
-|                          | <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />                       | 🟩🟩🟦🟦🟦      | 2         |
-| **Tools**                | <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                          | 🟩🟩🟩🟦🟦      | 4+        |
-|                          | <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />                 | 🟩🟩🟩🟦🟦      | 4+        |
-|                          | <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /> | 🟩🟩🟩🟦🟦      | 3+        |
-|                          | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                    | 🟩🟩🟦🟦🟦      | 1.5       |
-| **Backend Development**  | <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET" />               | 🟩🟩🟩🟦🟦      | 1.5       |
+| **Category**             | **Skill**                                                                                                                             | **Proficiency** | **Years** |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|
+| **Languages**            | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />             | 🟩🟩🟩🟩🟩      | 5         |
+|                          | <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />             | 🟩🟩🟦🟦🟦      | 2         |
+| **Frontend Development** | <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />                            | 🟩🟦🟦🟦🟦      | 1         |
+|                          | <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />                         | 🟩🟩🟩🟩🟩      | 5         |
+| **Frameworks**           | <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />                      | 🟩🟦🟦🟦🟦      | 1         |
+|                          | <img src="https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />                      | 🟩🟩🟩🟩🟩      | 5         |
+| **Styling**              | <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />         | 🟩🟩🟩🟦🟦      | 4+        |
+|                          | <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />                | 🟩🟩🟩🟦🟦      | 4+        |
+|                          | <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS" />                               | 🟩🟩🟩🟦🟦      | 4+        |
+| **Tools**                | <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />                                  | 🟩🟩🟩🟩🟩      | 5         |
+|                          | <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />                            | 🟩🟩🟦🟦🟦      | 3         |
+| **Backend Development**  | <img src="https://img.shields.io/badge/-NODE-512BD4?style=flat&logo=dotnet&logoColor=white" alt="Node" />                             | 🟩🟩🟩🟦🟦      | 2         |
+| **Databases**            | <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />                            | 🟩🟩🟦🟦🟦      | 3         |
+|                          | <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />                      | 🟩🟩🟦🟦🟦      | 2         |
+| **DevOps & CI/CD**       | <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />                         | 🟩🟩🟩🟦🟦      | 1         |
+|                          | <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" /> | 🟩🟩🟦🟦🟦      | 1         |
+|                          | <img src="https://img.shields.io/badge/-CI/CD_Pipelines-24292e?style=flat&logo=github&logoColor=white" alt="CI/CD Pipelines" />       | 🟩🟩🟦🟦🟦      | 1         |
+|                          | <img src="https://img.shields.io/badge/-GitLab_Runner-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab Runner" />           | 🟩🟩🟦🟦🟦      | 1         |
+| **Cloud Platforms**      | <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />                           | 🟩🟩🟦🟦🟦      | 1         |
+| **Testing**              | <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />                               | 🟩🟩🟩🟦🟦      | 1         |
+| **Project Management**   | <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />                               | 🟩🟩🟩🟩🟩      | 5         |
 
 ---
 

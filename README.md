@@ -147,7 +147,7 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 
 ---
 
-### 🛠️ Tech Stack 📈 Experience Chart
+### 🛠️ Tech Stack 📈 Experience Chart----------- 
 
 | **Category**             | **Skill**                                                                                                                             | **Proficiency** | **Years** |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|

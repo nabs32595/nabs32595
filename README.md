@@ -55,7 +55,7 @@ console.log(`Good code is ${createGoodCode() * 100}% human and AI collaboration,
 
 ## 📂 Career History
 
-### 🚀 Intermediate Software Developer at LavuTech <span style="font-size:small;">(Dec 2022 - Present)</span>
+### 🚀 Senior Software Developer at LavuTech <span style="font-size:small;">(Dec 2022 - Present)</span>
 
 <details>
 <summary>📖 More Details</summary>
